@@ -1,0 +1,391 @@
+Athlete_ID,Athlete_Name,Country,Gender,Age,Sport,Previous_Olympics,Training_Hours_Per_Week,Altitude_Training_m,Body_Fat_Pct,VO2max,Reaction_Time_ms,Career_Injuries,World_Cup_Points_Preseason,Country_GDP_per_capita,Winter_Sport_Tradition_Index,Medal
+MC26_1001,Ben Ogden,USA,M,26,Cross-Country,1,35.6,1687.0,,91.5,,1,356.0,80000,0.82,Silver
+MC26_1002,Loic Meillard,SUI,M,30,Alpine Skiing,3,22.9,2289.0,13.9,71.4,208.0,1,977.0,93000,0.93,Gold
+MC26_1003,Francesca Lollobrigida,ITA,F,35,Speed Skating,1,29.0,394.0,10.1,82.6,189.0,3,416.0,38000,0.82,Gold
+MC26_1004,Maria Nilsson,FRA,F,43,Ski Jumping,4,26.2,1239.0,9.1,59.3,183.0,2,801.0,48000,0.87,None
+MC26_1005,Nils Lewis,GER,M,20,Short Track,0,20.2,67.0,12.3,63.1,187.0,2,393.0,52000,0.88,None
+MC26_1006,Daniel Gruber,NED,M,20,Alpine Skiing,1,20.9,2307.0,11.8,74.8,178.0,5,251.0,62000,0.85,None
+MC26_1007,Shaun White,USA,M,40,Snowboard,2,18.1,1678.0,9.6,57.6,244.0,3,573.0,80000,0.82,None
+MC26_1008,Rasmus Davis,AUS,M,37,Speed Skating,5,25.9,258.0,9.5,74.1,161.0,3,,65000,0.22,None
+MC26_1009,Mia Thomas,CZE,F,41,Speed Skating,0,26.6,153.0,11.4,76.9,168.0,1,370.0,28000,0.64,None
+MC26_1010,Nathan Fischer,FIN,M,43,Short Track,0,23.9,96.0,9.0,-8.4,146.0,4,549.0,53000,0.9,None
+MC26_1011,Alyssa White,ITA,F,36,Ice Hockey,4,29.4,22.0,9.0,,194.0,2,,38000,0.82,Gold
+MC26_1012,Kayla Keller,AUT,F,26,Biathlon,2,37.8,1813.0,10.5,89.5,192.0,3,1233.0,56000,0.92,Gold
+MC26_1013,Eileen Gu,CHN,F,23,Freestyle Skiing,4,,1676.0,,62.0,211.0,4,797.0,13000,0.62,Bronze
+MC26_1014,Nina Smith,SWE,F,34,Freestyle Skiing,3,19.8,1480.0,15.3,61.0,216.0,5,241.0,56000,0.91,None
+MC26_1015,Alyssa Clark,SWE,F,26,Cross-Country,5,33.0,1256.0,11.4,85.7,,0,,56000,0.91,None
+MC26_1016,Tobias Robinson,NED,M,36,Cross-Country,1,32.6,1885.0,10.2,85.1,,1,431.0,62000,0.85,None
+MC26_1017,Martin Nyenget,NOR,M,34,Cross-Country,4,36.2,1655.0,10.3,89.8,,2,146.0,95000,0.97,Gold
+MC26_1018,Valerie Maltais,CAN,F,36,Speed Skating,5,29.5,25.0,11.1,,,2,1223.0,55000,0.88,Gold
+MC26_1019,Elena White,GER,F,21,Bobsleigh,1,25.9,1124.0,13.5,62.2,176.0,1,244.0,52000,0.88,None
+MC26_1020,Pierre Wilson,CZE,M,35,Freestyle Skiing,0,,1653.0,13.9,55.1,212.0,6,563.0,28000,0.64,None
+MC26_1021,Jordan Stolz,USA,M,22,Speed Skating,1,31.8,296.0,10.0,83.1,157.0,0,,80000,0.82,Gold
+MC26_1022,Ryan Muller,USA,M,23,Alpine Skiing,1,21.6,2269.0,12.5,,,4,1022.0,80000,0.82,None
+MC26_1023,Nina Smith,USA,F,21,Ice Hockey,1,27.5,131.0,11.8,65.0,,8,,80000,0.82,None
+MC26_1024,Nicolas Bernard,NZL,M,21,Short Track,2,26.4,295.0,11.6,73.8,161.0,2,133.0,50000,0.32,None
+MC26_1025,Anna Swenn Larsson,SWE,F,32,Alpine Skiing,4,28.6,1975.0,10.6,73.7,176.0,3,964.0,56000,0.91,Bronze
+MC26_1026,Leon Johnson,CZE,M,24,Biathlon,4,27.9,1353.0,14.0,82.6,168.0,2,1105.0,28000,0.64,Silver
+MC26_1027,Agnes Clark,NZL,F,24,Speed Skating,0,31.1,140.0,8.6,76.2,173.0,0,156.0,50000,0.32,None
+MC26_1028,Ava Gruber,SLO,F,39,Alpine Skiing,1,20.6,2102.0,12.4,61.9,190.0,2,921.0,32000,0.56,None
+MC26_1029,Ingrid Muller,CZE,F,23,Ski Jumping,0,,837.0,,59.8,219.0,1,859.0,28000,0.64,None
+MC26_1030,Amelia Murray,SWE,F,26,Short Track,1,23.3,228.0,11.4,70.2,150.0,3,590.0,56000,0.91,None
+MC26_1031,Kyle Moore,ITA,M,34,Short Track,5,27.2,172.0,8.6,72.3,162.0,3,203.0,38000,0.82,None
+MC26_1032,Ebba Andersson,SWE,F,29,Cross-Country,1,36.6,1202.0,10.9,96.0,,2,360.0,56000,0.91,Gold
+MC26_1033,Pierre Bauer,USA,M,43,Curling,0,15.6,42.0,,43.2,,2,,80000,0.82,None
+MC26_1034,Miho Takagi,JPN,F,32,Speed Skating,4,30.1,,14.0,83.0,192.0,2,948.0,35000,0.74,Silver
+MC26_1035,Isabella Hansen,FIN,F,31,Short Track,3,29.5,227.0,11.7,74.4,,0,631.0,53000,0.9,Bronze
+MC26_1036,Niklas Edin,SWE,M,41,Curling,4,18.5,107.0,21.3,52.3,,2,,56000,0.91,Silver
+MC26_1037,Andrei Johansson,CAN,M,41,Snowboard,2,24.9,1872.0,9.1,61.8,220.0,2,922.0,55000,0.88,None
+MC26_1038,Hilary Knight,USA,F,37,Ice Hockey,1,29.0,14.0,12.4,69.4,174.0,1,,80000,0.82,Gold
+MC26_1039,Emily Walker,HUN,F,26,Freestyle Skiing,3,17.8,2139.0,11.2,54.2,238.0,2,406.0,22000,0.26,None
+MC26_1040,Ava Thompson,HUN,F,20,Speed Skating,2,25.6,,12.6,67.1,177.0,3,870.0,22000,0.26,None
+MC26_1041,Matt Johnson,SUI,M,33,Alpine Skiing,1,22.1,1835.0,11.3,,216.0,2,1024.0,93000,0.93,None
+MC26_1042,Sofia Harris,KOR,F,27,Cross-Country,2,34.6,1410.0,11.4,95.9,,0,1120.0,35000,0.71,Silver
+MC26_1043,Johannes Dale-Skjevdal,NOR,M,27,Biathlon,3,32.7,1708.0,13.0,79.8,,3,303.0,95000,0.97,Gold
+MC26_1044,Agnes Lewis,AUT,F,42,Curling,5,14.6,79.0,22.9,44.7,,1,,56000,0.92,None
+MC26_1045,Kristin Schmidt,CAN,F,22,Ice Hockey,1,26.3,124.0,10.0,65.4,181.0,3,,55000,0.88,None
+MC26_1046,Choi Gaon,KOR,F,19,Snowboard,3,25.7,1857.0,16.4,61.0,256.0,1,505.0,35000,0.71,Gold
+MC26_1047,Ivanie Blondin,CAN,F,36,Speed Skating,5,28.7,132.0,8.2,85.7,194.0,2,295.0,55000,0.88,Gold
+MC26_1048,Mikael Walker,FRA,M,33,Ski Jumping,2,20.4,,9.7,54.6,220.0,1,908.0,48000,0.87,None
+MC26_1049,Harper Koch,POL,F,38,Biathlon,3,33.4,1734.0,12.3,83.7,187.0,2,1118.0,20000,0.42,None
+MC26_1050,Jens Johnson,CZE,M,25,Ski Jumping,2,19.4,607.0,10.3,57.1,204.0,4,151.0,28000,0.64,None
+MC26_1051,Kaitlyn Thompson,USA,F,41,Alpine Skiing,2,20.1,2336.0,10.5,57.3,219.0,4,971.0,80000,0.82,None
+MC26_1052,Stefan Jensen,KOR,M,25,Bobsleigh,1,21.5,542.0,10.3,59.8,,1,138.0,35000,0.71,None
+MC26_1053,Isabelle Weidemann,CAN,F,31,Speed Skating,3,29.7,15.0,12.8,83.1,167.0,2,599.0,55000,0.88,Gold
+MC26_1054,Connor McDavid,CAN,M,29,Ice Hockey,4,23.7,189.0,9.2,64.9,192.0,7,,55000,0.88,Silver
+MC26_1055,Metodej Jilek,CZE,M,20,Speed Skating,5,28.8,39.0,13.2,81.3,177.0,0,1244.0,28000,0.64,Gold
+MC26_1056,Natalie Geisenberger,GER,F,38,Luge,3,27.5,1434.0,12.8,66.5,177.0,0,,52000,0.88,Gold
+MC26_1057,Evelyn Andersen,CHN,F,32,Ice Hockey,2,23.3,89.0,9.0,62.4,163.0,7,,13000,0.62,None
+MC26_1058,Ryan Thomas,SWE,M,23,Alpine Skiing,4,24.5,2062.0,12.0,67.5,210.0,2,792.0,56000,0.91,None
+MC26_1059,Fukada Mari,JPN,F,20,Snowboard,2,22.0,1674.0,9.6,61.2,210.0,3,381.0,35000,0.74,Gold
+MC26_1060,Federica Brignone,ITA,F,36,Alpine Skiing,4,22.8,1912.0,9.1,69.8,198.0,1,696.0,38000,0.82,Gold
+MC26_1061,Mikael Steiner,FIN,M,37,Speed Skating,1,31.0,160.0,9.9,86.4,161.0,0,266.0,53000,0.9,Bronze
+MC26_1062,Henrik Petersen,USA,M,40,Biathlon,4,31.8,1966.0,11.6,72.8,,0,969.0,80000,0.82,None
+MC26_1063,Tyler Andersen,NOR,M,39,Alpine Skiing,3,20.1,2340.0,,57.6,205.0,4,208.0,95000,0.97,None
+MC26_1064,Olivia Moore,NOR,F,39,Cross-Country,1,33.6,1412.0,8.2,84.4,,0,556.0,95000,0.97,None
+MC26_1065,Olivia Bernard,CAN,F,37,Snowboard,0,20.7,1661.0,11.9,58.0,207.0,6,166.0,55000,0.88,None
+MC26_1066,Cale Wilson,USA,M,44,Biathlon,1,28.8,1820.0,9.4,82.1,166.0,1,567.0,80000,0.82,None
+MC26_1067,Breezy Johnson,USA,F,30,Alpine Skiing,3,22.6,2282.0,12.8,68.2,211.0,5,348.0,80000,0.82,Gold
+MC26_1068,Ning Zhongyan,CHN,M,25,Speed Skating,5,31.6,195.0,15.2,88.8,192.0,0,853.0,13000,0.62,Gold
+MC26_1069,Maria Murray,ITA,F,32,Speed Skating,0,25.3,341.0,,74.8,,1,525.0,38000,0.82,None
+MC26_1070,Nick Steiner,CHN,M,30,Speed Skating,2,30.8,2.0,11.3,73.9,162.0,2,748.0,13000,0.62,None
+MC26_1071,Therese Lewis,ITA,F,23,Ice Hockey,0,25.7,2.0,14.4,59.5,199.0,2,,38000,0.82,None
+MC26_1072,Matt Steiner,FRA,M,41,Biathlon,2,31.0,1404.0,9.8,82.0,189.0,1,981.0,48000,0.87,Bronze
+MC26_1073,Stefan Thompson,NOR,M,43,Freestyle Skiing,1,25.2,1786.0,15.5,53.6,206.0,2,716.0,95000,0.97,None
+MC26_1074,Jonas Gruber,KOR,M,33,Speed Skating,1,29.5,274.0,,67.5,186.0,0,196.0,35000,0.71,None
+MC26_1075,Ilia Malinin,USA,M,22,Figure Skating,3,33.3,161.0,8.1,65.0,,1,,80000,0.82,Gold
+MC26_1076,Courtney Sarault,CAN,F,27,Short Track,2,29.6,152.0,8.7,72.9,171.0,4,,55000,0.88,Silver
+MC26_1077,Anja Clark,KOR,F,34,Ice Hockey,3,22.0,173.0,11.1,54.6,189.0,6,,35000,0.71,None
+MC26_1078,Logan Simon,USA,M,42,Luge,1,20.5,1206.0,10.6,63.4,186.0,4,82.0,80000,0.82,None
+MC26_1079,Nils Walker,CHN,M,41,Alpine Skiing,4,23.3,2423.0,11.7,71.9,218.0,2,684.0,13000,0.62,None
+MC26_1080,Auston Matthews,CAN,M,29,Ice Hockey,2,25.0,123.0,,66.1,193.0,1,,55000,0.88,Silver
+MC26_1081,Zach Murray,SLO,M,22,Biathlon,3,35.9,1566.0,12.5,85.6,189.0,1,822.0,32000,0.56,None
+MC26_1082,Sophia Bernard,USA,F,28,Ice Hockey,1,20.7,49.0,10.0,62.6,198.0,3,,80000,0.82,None
+MC26_1083,Hanna Miller,ITA,F,24,Curling,5,13.0,149.0,20.9,50.4,,1,,38000,0.82,None
+MC26_1084,Giovanni Franzoni,ITA,M,25,Alpine Skiing,2,22.0,1990.0,10.8,64.1,181.0,2,680.0,38000,0.82,Silver
+MC26_1085,Laura Fischer,NED,F,40,Nordic Combined,0,21.8,2288.0,9.0,67.6,193.0,2,825.0,62000,0.85,None
+MC26_1086,Marco Meier,JPN,M,34,Curling,5,17.3,196.0,18.2,50.4,,0,,35000,0.74,None
+MC26_1087,Devon Thompson,GER,M,28,Ice Hockey,0,24.5,,11.3,59.9,198.0,6,,52000,0.88,None
+MC26_1088,Stefan Stewart,GER,M,38,Alpine Skiing,2,25.6,1819.0,12.3,64.5,,1,258.0,52000,0.88,None
+MC26_1089,Dylan White,HUN,M,24,Alpine Skiing,2,22.3,2357.0,10.4,,190.0,2,908.0,22000,0.26,None
+MC26_1090,Harper Steiner,SUI,F,44,Speed Skating,1,24.7,79.0,13.9,76.9,155.0,1,582.0,93000,0.93,None
+MC26_1091,Kyle Steiner,SLO,M,24,Speed Skating,0,26.7,387.0,12.6,73.6,185.0,1,466.0,32000,0.56,None
+MC26_1092,Therese Nilsson,CZE,F,43,Alpine Skiing,0,19.7,,9.4,63.6,202.0,1,952.0,28000,0.64,None
+MC26_1093,Olivia Campbell,GER,F,34,Alpine Skiing,0,22.7,2341.0,,59.0,224.0,2,,52000,0.88,None
+MC26_1094,Xu Mengtao,CHN,F,36,Freestyle Skiing,4,22.8,,10.7,64.7,,5,908.0,13000,0.62,Gold
+MC26_1095,Abigail Bauer,FIN,F,22,Alpine Skiing,1,23.1,2105.0,10.2,65.3,190.0,3,213.0,53000,0.9,None
+MC26_1096,Elizabeth Simon,SWE,F,39,Short Track,1,,77.0,13.8,76.4,,2,661.0,56000,0.91,None
+MC26_1097,Steven Dubois,CAN,M,30,Short Track,1,30.2,204.0,8.8,78.9,184.0,2,826.0,55000,0.88,Gold
+MC26_1098,Henrik Kristoffersen,NOR,M,32,Alpine Skiing,3,20.0,1874.0,13.7,66.8,187.0,3,427.0,95000,0.97,None
+MC26_1099,Monika Fischer,CHN,F,33,Speed Skating,3,27.1,201.0,14.1,69.3,164.0,0,218.0,13000,0.62,None
+MC26_1100,Alex Ferreira,USA,M,30,Freestyle Skiing,1,20.1,1861.0,15.2,66.7,259.0,2,905.0,80000,0.82,Gold
+MC26_1101,Kim Boutin,CAN,F,32,Short Track,2,,161.0,13.5,77.2,167.0,0,616.0,55000,0.88,Bronze
+MC26_1102,Lukas Hansen,SWE,M,27,Short Track,0,26.3,272.0,13.8,61.1,173.0,1,,56000,0.91,None
+MC26_1103,Lukas Stewart,GER,M,30,Biathlon,2,29.9,1503.0,8.6,83.8,178.0,2,307.0,52000,0.88,None
+MC26_1104,Henrik Harris,NOR,M,27,Curling,5,18.2,50.0,18.4,53.9,,1,,95000,0.97,None
+MC26_1105,Elizabeth Simon,CAN,F,23,Snowboard,1,25.4,2025.0,16.0,,252.0,1,894.0,55000,0.88,None
+MC26_1106,Jens Muller,GER,M,30,Nordic Combined,3,23.3,2003.0,8.0,63.5,186.0,1,241.0,52000,0.88,None
+MC26_1107,Madison Walker,CAN,F,22,Freestyle Skiing,0,16.2,1793.0,9.4,,198.0,1,112.0,55000,0.88,None
+MC26_1108,Maria Lewis,CHN,F,39,Curling,5,14.4,60.0,21.3,53.4,,2,,13000,0.62,None
+MC26_1109,Sofia Morrison,JPN,F,21,Ice Hockey,1,19.9,65.0,14.3,59.4,217.0,5,,35000,0.74,None
+MC26_1110,Deanna Stellato-Dudek,CAN,F,43,Figure Skating,3,29.3,86.0,15.6,55.2,,2,,55000,0.88,None
+MC26_1111,Camille Rast,SUI,F,27,Alpine Skiing,2,21.6,2472.0,13.5,73.7,224.0,5,250.0,93000,0.93,Silver
+MC26_1112,Olivia Campbell,FRA,F,21,Luge,1,23.7,822.0,10.8,57.9,184.0,3,649.0,48000,0.87,None
+MC26_1113,Tobias Petersen,CAN,M,23,Nordic Combined,1,20.6,2376.0,8.3,58.6,193.0,2,1119.0,55000,0.88,None
+MC26_1114,Mitch Anderson,GER,M,43,Alpine Skiing,0,21.6,1870.0,10.3,60.8,196.0,5,438.0,52000,0.88,None
+MC26_1115,Anja Walker,HUN,F,42,Cross-Country,4,30.3,1274.0,10.2,78.0,,1,296.0,22000,0.26,None
+MC26_1116,Maja Miller,HUN,F,41,Alpine Skiing,2,21.0,1951.0,8.7,65.0,217.0,4,291.0,22000,0.26,None
+MC26_1117,Megan Oldham,CAN,F,26,Freestyle Skiing,3,24.9,1634.0,12.6,62.0,257.0,6,326.0,55000,0.88,Gold
+MC26_1118,Maja Larsen,JPN,F,28,Alpine Skiing,2,24.6,2248.0,14.0,68.1,199.0,4,519.0,35000,0.74,None
+MC26_1119,Jack Hughes,USA,M,25,Ice Hockey,4,28.6,24.0,,63.7,180.0,4,,80000,0.82,Gold
+MC26_1120,Tobias Smith,NED,M,43,Snowboard,3,23.2,1516.0,10.6,,,1,801.0,62000,0.85,None
+MC26_1121,Nina Martin,NOR,F,31,Luge,1,24.8,998.0,,68.4,157.0,4,849.0,95000,0.97,Gold
+MC26_1122,Tobias Muller,NZL,M,42,Ice Hockey,2,,169.0,12.7,61.8,186.0,3,,50000,0.32,None
+MC26_1123,Axel Thompson,JPN,M,41,Biathlon,5,33.4,1499.0,8.6,80.4,,3,261.0,35000,0.74,None
+MC26_1124,Tobias Lewis,BRA,M,34,Curling,3,15.4,31.0,,41.7,,0,,11000,0.04,None
+MC26_1125,Josh Bauer,GER,M,22,Bobsleigh,2,27.6,692.0,12.0,69.1,146.0,3,469.0,52000,0.88,None
+MC26_1126,Elena MacDonald,SWE,F,23,Speed Skating,2,22.8,147.0,9.8,65.6,198.0,3,240.0,56000,0.91,None
+MC26_1127,Mitch Taylor,CZE,M,41,Nordic Combined,1,20.5,2032.0,8.4,61.7,180.0,5,706.0,28000,0.64,None
+MC26_1128,Evelyn Thompson,JPN,F,29,Biathlon,0,,1231.0,13.5,76.4,175.0,3,,35000,0.74,None
+MC26_1129,Lisa Martin,JPN,F,24,Alpine Skiing,2,26.2,1835.0,9.2,63.8,177.0,3,745.0,35000,0.74,None
+MC26_1130,Emily Taylor,USA,F,36,Cross-Country,4,34.0,1488.0,9.5,86.3,,1,575.0,80000,0.82,None
+MC26_1131,Ida Thomas,FRA,F,38,Short Track,2,23.6,70.0,9.7,73.3,,1,247.0,48000,0.87,None
+MC26_1132,Brandon Bernard,CHN,M,42,Ice Hockey,2,22.5,155.0,12.0,61.9,165.0,1,,13000,0.62,None
+MC26_1133,Rasmus Keller,POL,M,43,Bobsleigh,1,22.0,701.0,13.8,63.2,,0,442.0,20000,0.42,None
+MC26_1134,Therese Williams,USA,F,20,Bobsleigh,3,19.7,,16.8,65.8,173.0,0,615.0,80000,0.82,None
+MC26_1135,Axel Smith,SLO,M,31,Luge,2,21.3,1245.0,16.3,57.9,144.0,4,247.0,32000,0.56,None
+MC26_1136,Monika Thomas,CAN,F,28,Alpine Skiing,3,22.3,,8.0,59.0,180.0,2,,55000,0.88,None
+MC26_1137,Matt Anderson,GER,M,29,Speed Skating,4,25.2,312.0,15.3,72.0,185.0,1,801.0,52000,0.88,None
+MC26_1138,Maren Kirkeeide,NOR,F,27,Biathlon,2,35.4,1245.0,11.0,,203.0,0,877.0,95000,0.97,Gold
+MC26_1139,Kyle Muller,GBR,M,34,Alpine Skiing,1,16.6,1979.0,,57.3,186.0,1,730.0,50000,0.54,None
+MC26_1140,Kayla Fischer,USA,F,32,Snowboard,2,21.7,2372.0,14.1,60.2,221.0,6,512.0,80000,0.82,None
+MC26_1141,Marco Muller,FIN,M,42,Bobsleigh,2,,1093.0,16.5,67.9,152.0,3,446.0,53000,0.9,None
+MC26_1142,Emma Larsen,CAN,F,24,Cross-Country,4,34.4,1888.0,9.8,85.3,,2,849.0,55000,0.88,None
+MC26_1143,Brad Gushue,CAN,M,46,Curling,5,19.6,137.0,23.4,54.9,,2,,55000,0.88,Gold
+MC26_1144,Emma Larsen,AUT,F,40,Freestyle Skiing,0,20.5,1558.0,15.3,50.6,231.0,1,204.0,56000,0.92,None
+MC26_1145,Jonas Martin,SWE,M,27,Speed Skating,4,30.8,71.0,9.1,,182.0,3,542.0,56000,0.91,Bronze
+MC26_1146,Marco Davis,AUT,M,37,Ski Jumping,3,28.7,1460.0,6.5,64.5,216.0,1,1032.0,56000,0.92,Bronze
+MC26_1147,Elizabeth Lemley,USA,F,24,Freestyle Skiing,1,25.2,1752.0,,63.5,233.0,3,648.0,80000,0.82,Gold
+MC26_1148,Tobias Robinson,FIN,M,34,Ice Hockey,2,25.9,97.0,13.3,69.7,165.0,7,,53000,0.9,None
+MC26_1149,Anna Bernard,CAN,F,32,Snowboard,3,21.4,2061.0,,61.5,209.0,5,,55000,0.88,None
+MC26_1150,Ryan Cochran-Siegle,USA,M,34,Alpine Skiing,2,27.6,2347.0,13.1,71.1,214.0,2,1130.0,80000,0.82,Silver
+MC26_1151,Emma Murray,HUN,F,33,Curling,2,,182.0,,42.0,,2,,22000,0.26,None
+MC26_1152,Maria MacDonald,FIN,F,23,Alpine Skiing,0,21.2,2047.0,10.6,,204.0,2,267.0,53000,0.9,None
+MC26_1153,Felix Loch,GER,M,37,Luge,2,26.8,1054.0,11.7,59.8,184.0,2,657.0,52000,0.88,Silver
+MC26_1154,Erik Koch,SUI,M,42,Bobsleigh,2,18.8,843.0,16.0,64.0,179.0,3,85.0,93000,0.93,None
+MC26_1155,Cale Keller,NOR,M,22,Nordic Combined,1,,2097.0,12.5,61.2,219.0,1,925.0,95000,0.97,None
+MC26_1156,Andrei Lewis,GER,M,28,Snowboard,1,21.7,2177.0,15.7,55.3,258.0,3,602.0,52000,0.88,None
+MC26_1157,Elena White,GBR,F,36,Freestyle Skiing,0,19.3,1575.0,10.6,59.5,246.0,4,,50000,0.54,None
+MC26_1158,Henrik Harris,BRA,M,26,Biathlon,4,27.1,1577.0,12.7,68.4,178.0,1,978.0,11000,0.04,None
+MC26_1159,Sofia Keller,SWE,F,19,Cross-Country,1,36.1,1588.0,9.2,88.2,,2,871.0,56000,0.91,Gold
+MC26_1160,Sander Eitrem,NOR,M,25,Speed Skating,3,28.1,27.0,13.2,86.8,151.0,3,980.0,95000,0.97,Gold
+MC26_1161,Hanna Campbell,SLO,F,26,Speed Skating,1,26.1,,,,178.0,0,,32000,0.56,None
+MC26_1162,Kaitlyn Andersen,SWE,F,37,Short Track,2,26.1,232.0,,67.4,,4,307.0,56000,0.91,None
+MC26_1163,Evelyn MacDonald,GER,F,34,Speed Skating,2,25.4,340.0,14.4,67.1,170.0,3,845.0,52000,0.88,None
+MC26_1164,Maja Dahlqvist,SWE,F,31,Cross-Country,3,35.6,1457.0,8.2,94.7,,0,506.0,56000,0.91,Gold
+MC26_1165,Sturla Holm Laegreid,NOR,M,29,Biathlon,1,35.0,1822.0,,83.1,200.0,3,169.0,95000,0.97,Bronze
+MC26_1166,Lauren Taylor,JPN,F,35,Biathlon,3,,1270.0,13.1,,172.0,3,,35000,0.74,None
+MC26_1167,Marco Moore,FIN,M,29,Ice Hockey,0,,105.0,11.2,55.8,203.0,7,,53000,0.9,None
+MC26_1168,Taylor Simon,GBR,F,32,Alpine Skiing,0,20.7,2381.0,8.5,63.8,205.0,2,712.0,50000,0.54,None
+MC26_1169,Mikael Svensson,CAN,M,29,Short Track,3,26.2,193.0,,72.1,,1,504.0,55000,0.88,None
+MC26_1170,Pierre Johnson,GBR,M,9,Ice Hockey,4,25.4,190.0,12.4,63.9,213.0,8,,50000,0.54,None
+MC26_1171,Sofia Campbell,AUS,F,30,Snowboard,3,,1558.0,16.5,63.2,209.0,6,377.0,65000,0.22,None
+MC26_1172,Tarjei Boe,NOR,M,37,Biathlon,5,,1355.0,12.2,81.8,185.0,1,272.0,95000,0.97,None
+MC26_1173,Marie-Philip Poulin,CAN,F,35,Ice Hockey,2,28.3,142.0,10.8,77.2,200.0,6,,55000,0.88,Silver
+MC26_1174,Martin Ponsiluoma,SWE,M,31,Biathlon,2,29.7,1523.0,13.6,94.1,188.0,0,,56000,0.91,Gold
+MC26_1175,Nathan Williams,SWE,M,34,Alpine Skiing,3,21.7,1833.0,13.2,60.9,193.0,4,,56000,0.91,None
+MC26_1176,Jonas Wilson,NED,M,28,Snowboard,0,19.8,1859.0,99.2,57.6,212.0,4,528.0,62000,0.85,None
+MC26_1177,Emil Iversen,NOR,M,35,Cross-Country,1,32.4,1236.0,11.9,92.7,,0,720.0,95000,0.97,Bronze
+MC26_1178,Dylan Campbell,POL,M,19,Biathlon,3,,1657.0,10.8,73.4,169.0,3,,20000,0.42,None
+MC26_1179,Frida MacDonald,ITA,F,27,Cross-Country,3,35.2,1516.0,10.7,84.2,,1,681.0,38000,0.82,None
+MC26_1180,Frida Stewart,FIN,F,25,Cross-Country,2,31.5,1934.0,10.0,84.7,,1,491.0,53000,0.9,None
+MC26_1181,Andrew Hansen,NED,M,28,Ice Hockey,2,29.2,87.0,9.6,67.1,191.0,5,,62000,0.85,None
+MC26_1182,Maja Hansen,USA,F,32,Speed Skating,3,29.6,81.0,15.0,76.6,193.0,3,972.0,80000,0.82,None
+MC26_1183,Carson Taylor,CAN,M,39,Short Track,4,21.8,227.0,11.1,68.3,186.0,4,563.0,55000,0.88,None
+MC26_1184,Isabella Jones,USA,F,33,Ice Hockey,4,23.9,152.0,12.0,65.2,192.0,7,,80000,0.82,None
+MC26_1185,Kristin White,USA,F,20,Alpine Skiing,2,21.6,2398.0,9.8,64.6,178.0,2,717.0,80000,0.82,None
+MC26_1186,Federico Pellegrino,ITA,M,36,Cross-Country,3,34.0,1286.0,7.1,88.6,,2,879.0,38000,0.82,Bronze
+MC26_1187,Laura Svensson,GER,F,33,Short Track,3,27.3,232.0,,67.6,164.0,1,836.0,52000,0.88,None
+MC26_1188,Viktor Murray,SUI,M,40,Biathlon,2,35.4,1399.0,12.3,79.6,201.0,3,670.0,93000,0.93,None
+MC26_1189,Emma Schmidt,SUI,F,30,Speed Skating,4,25.2,,12.0,67.2,171.0,1,649.0,93000,0.93,None
+MC26_1190,Marco White,JPN,M,29,Freestyle Skiing,1,22.7,1429.0,,68.7,238.0,5,492.0,35000,0.74,None
+MC26_1191,Nick Bernard,NED,M,26,Cross-Country,2,36.4,1592.0,7.5,94.3,,1,922.0,62000,0.85,None
+MC26_1192,Devon Gruber,AUS,M,42,Cross-Country,4,32.6,1714.0,9.0,77.2,,1,191.0,65000,0.22,None
+MC26_1193,Zach Davis,FRA,M,35,Alpine Skiing,1,20.4,2110.0,9.5,59.1,192.0,1,1020.0,48000,0.87,None
+MC26_1194,Viktor Murray,SWE,M,26,Luge,0,20.1,1100.0,16.8,57.4,143.0,3,235.0,56000,0.91,None
+MC26_1195,Viktor Muller,KOR,M,19,Speed Skating,3,25.8,398.0,10.1,69.2,171.0,3,793.0,35000,0.71,None
+MC26_1196,Leon Moore,NZL,M,23,Cross-Country,3,32.1,1865.0,7.3,87.6,,3,1015.0,50000,0.32,None
+MC26_1197,Emma Simon,ITA,F,35,Short Track,2,25.2,196.0,14.7,65.1,173.0,1,191.0,38000,0.82,None
+MC26_1198,Olivia Fischer,CAN,F,35,Alpine Skiing,2,20.8,1875.0,12.1,61.1,189.0,5,974.0,55000,0.88,None
+MC26_1199,Lisa Vittozzi,ITA,F,31,Biathlon,5,,,9.9,,173.0,2,403.0,38000,0.82,Gold
+MC26_1200,Chloe Kim,USA,F,26,Snowboard,4,26.8,1667.0,10.7,65.6,256.0,6,,80000,0.82,Silver
+MC26_1201,Ava Harris,SUI,F,26,Short Track,3,22.3,291.0,,59.9,168.0,3,686.0,93000,0.93,None
+MC26_1202,Elena Anderson,NOR,F,35,Biathlon,2,31.9,1756.0,12.2,85.1,180.0,1,739.0,95000,0.97,None
+MC26_1203,Ava Meier,USA,F,27,Short Track,4,26.0,271.0,14.0,,147.0,1,264.0,80000,0.82,None
+MC26_1204,Alyssa Bauer,USA,F,28,Alpine Skiing,3,20.1,2203.0,13.7,65.1,177.0,5,479.0,80000,0.82,None
+MC26_1205,Nick Brown,NOR,M,20,Biathlon,1,,1398.0,10.1,76.1,174.0,0,133.0,95000,0.97,None
+MC26_1206,Frida Jones,SWE,F,29,Ice Hockey,3,,73.0,11.1,63.0,,8,,56000,0.91,None
+MC26_1207,Elena Keller,JPN,F,34,Ice Hockey,3,24.9,127.0,9.4,60.9,213.0,4,,35000,0.74,None
+MC26_1208,Abigail Gruber,CHN,F,25,Biathlon,0,32.1,1480.0,11.3,75.6,166.0,2,,13000,0.62,None
+MC26_1209,Frida Larsen,JPN,F,24,Ice Hockey,3,25.9,22.0,11.2,64.7,187.0,8,,35000,0.74,None
+MC26_1210,Elena Williams,SWE,F,33,Speed Skating,4,26.0,79.0,12.6,65.9,182.0,1,975.0,56000,0.91,None
+MC26_1211,Jens Gruber,GER,M,35,Cross-Country,1,30.0,1884.0,7.1,75.9,,2,1224.0,52000,0.88,None
+MC26_1212,Nicolas Robinson,SLO,M,41,Bobsleigh,1,21.3,846.0,,61.3,177.0,4,331.0,32000,0.56,None
+MC26_1213,Vera Murray,CHN,F,31,Short Track,0,21.4,63.0,10.8,68.1,,3,495.0,13000,0.62,None
+MC26_1214,Vera Walker,CAN,F,27,Ice Hockey,3,26.2,38.0,9.7,64.2,193.0,4,,55000,0.88,None
+MC26_1215,Lauren Martin,SWE,F,23,Speed Skating,3,23.7,252.0,9.2,69.9,158.0,2,476.0,56000,0.91,None
+MC26_1216,Tyler Murray,USA,M,22,Curling,1,17.3,151.0,18.7,46.2,,2,,80000,0.82,None
+MC26_1217,Maja Nilsson,ITA,F,29,Snowboard,3,23.3,1815.0,12.7,58.5,214.0,2,326.0,38000,0.82,None
+MC26_1218,Tobias Stewart,GER,M,21,Ice Hockey,3,24.4,33.0,9.9,65.3,176.0,3,,52000,0.88,None
+MC26_1219,Lars Brown,SWE,M,22,Biathlon,3,33.4,1488.0,,80.0,207.0,3,,56000,0.91,None
+MC26_1220,Erik Johnson,USA,M,35,Snowboard,2,27.6,2140.0,10.7,64.2,228.0,3,577.0,80000,0.82,Silver
+MC26_1221,Alysa Liu,USA,F,21,Figure Skating,2,28.7,143.0,13.6,60.4,,3,,80000,0.82,Gold
+MC26_1222,Harper Lewis,CAN,F,37,Biathlon,3,29.4,1665.0,11.2,78.0,,3,668.0,55000,0.88,None
+MC26_1223,Emma Morrison,GBR,F,34,Snowboard,2,20.4,1774.0,10.2,58.4,255.0,1,147.0,50000,0.54,None
+MC26_1224,Mitch Nilsson,FRA,M,27,Alpine Skiing,1,23.4,2224.0,10.7,61.4,,5,581.0,48000,0.87,None
+MC26_1225,Maja Miller,CAN,F,20,Curling,5,15.8,57.0,21.1,48.3,,1,,55000,0.88,Gold
+MC26_1226,Johannes Høsflot Klæbo,NOR,M,30,Cross-Country,1,36.8,1611.0,8.4,96.0,,3,440.0,95000,0.97,Gold
+MC26_1227,Zach Simon,CAN,M,23,Speed Skating,1,25.2,,8.9,72.5,171.0,2,771.0,55000,0.88,None
+MC26_1228,Kristin Taylor,JPN,F,41,Speed Skating,2,27.2,286.0,8.9,72.5,171.0,0,896.0,35000,0.74,None
+MC26_1229,Sofia Anderson,NOR,F,44,Cross-Country,1,36.3,1383.0,,92.3,,0,266.0,95000,0.97,Silver
+MC26_1230,Lukas Steiner,SUI,M,26,Snowboard,0,19.8,1871.0,12.1,53.4,201.0,1,480.0,93000,0.93,None
+MC26_1231,Lukas Johnson,CAN,M,31,Snowboard,4,28.6,2109.0,10.2,63.0,201.0,3,585.0,55000,0.88,None
+MC26_1232,Tyler Lewis,JPN,M,39,Freestyle Skiing,4,24.0,1288.0,11.1,55.0,216.0,5,114.0,35000,0.74,None
+MC26_1233,Trevor Clark,CZE,M,24,Speed Skating,4,23.4,381.0,13.9,70.3,152.0,1,411.0,28000,0.64,None
+MC26_1234,Arianna Fontana,ITA,F,36,Short Track,1,30.0,41.0,9.6,79.7,175.0,1,147.0,38000,0.82,Silver
+MC26_1235,Jens Lewis,CHN,M,22,Ice Hockey,0,23.7,56.0,14.5,62.1,183.0,1,,13000,0.62,None
+MC26_1236,Lucas Pinheiro Braathen,BRA,M,26,Alpine Skiing,1,26.7,1848.0,12.4,80.0,215.0,1,529.0,11000,0.04,Gold
+MC26_1237,Sofia Goggia,ITA,F,34,Alpine Skiing,1,24.9,2424.0,11.9,74.6,213.0,2,421.0,38000,0.82,Bronze
+MC26_1238,Nina Walker,AUT,F,40,Cross-Country,1,31.7,1805.0,7.7,81.6,,1,325.0,56000,0.92,None
+MC26_1239,Anja Thomas,FIN,F,22,Biathlon,1,31.1,1277.0,13.3,85.7,,3,529.0,53000,0.9,None
+MC26_1240,Therese Moore,SWE,F,20,Luge,1,18.0,700.0,13.1,62.2,179.0,4,522.0,56000,0.91,None
+MC26_1241,Josh Jackson,NZL,M,32,Snowboard,2,25.3,1788.0,10.4,60.9,212.0,2,,50000,0.32,None
+MC26_1242,Ida Jones,AUT,F,37,Freestyle Skiing,3,23.5,1661.0,11.3,54.1,217.0,5,411.0,56000,0.92,None
+MC26_1243,Andrew Jensen,CZE,M,27,Snowboard,1,23.2,1588.0,15.1,,241.0,5,258.0,28000,0.64,None
+MC26_1244,Lisa Bernard,SUI,F,35,Ice Hockey,2,25.3,91.0,11.6,56.7,191.0,7,,93000,0.93,None
+MC26_1245,Linn Svahn,SWE,F,25,Cross-Country,3,34.5,1683.0,10.6,92.8,,1,1072.0,56000,0.91,Gold
+MC26_1246,Dylan Brown,ITA,M,31,Snowboard,2,23.1,1662.0,12.4,,207.0,5,748.0,38000,0.82,None
+MC26_1247,Petra Vlhova,SVK,F,31,Alpine Skiing,4,19.0,2434.0,13.8,65.7,,1,488.0,25000,0.5,None
+MC26_1248,Taylor Robinson,FRA,F,30,Alpine Skiing,2,22.5,2582.0,12.0,66.1,192.0,5,893.0,48000,0.87,None
+MC26_1249,Dominik Paris,ITA,M,37,Alpine Skiing,3,21.1,1934.0,11.6,65.4,212.0,1,1022.0,38000,0.82,Bronze
+MC26_1250,Logan Miller,SWE,M,38,Ice Hockey,0,22.0,135.0,9.8,54.6,219.0,1,,56000,0.91,None
+MC26_1251,Emily Taylor,KOR,F,30,Cross-Country,0,35.1,1842.0,10.6,85.4,,2,1259.0,35000,0.71,None
+MC26_1252,Irene Schouten,NED,F,34,Speed Skating,1,28.7,182.0,14.4,80.9,183.0,2,1097.0,62000,0.85,Bronze
+MC26_1253,Rachel Jackson,CAN,F,19,Speed Skating,3,25.5,200.0,8.4,67.4,157.0,2,833.0,55000,0.88,None
+MC26_1254,Kaillie Humphries,USA,F,41,Bobsleigh,4,24.9,1107.0,16.4,71.5,147.0,1,293.0,80000,0.82,Bronze
+MC26_1255,Julia Simon,FRA,F,30,Biathlon,5,35.3,1248.0,,95.6,,3,738.0,48000,0.87,Gold
+MC26_1256,Franjo von Allmen,SUI,M,25,Alpine Skiing,1,22.0,2327.0,10.1,69.4,196.0,1,946.0,93000,0.93,Gold
+MC26_1257,Viktor Jackson,ITA,M,34,Short Track,3,23.7,,,69.9,157.0,3,596.0,38000,0.82,None
+MC26_1258,Maja Campbell,NZL,F,36,Curling,3,20.6,54.0,22.0,44.4,,1,,50000,0.32,None
+MC26_1259,Ryan Brown,SWE,M,24,Biathlon,1,29.0,1508.0,11.2,81.6,174.0,2,667.0,56000,0.91,None
+MC26_1260,Tobias Koch,KOR,M,25,Bobsleigh,2,18.2,1023.0,13.5,54.2,160.0,4,202.0,35000,0.71,None
+MC26_1261,Olivia Stewart,FRA,F,35,Freestyle Skiing,0,16.4,1245.0,14.0,,249.0,1,177.0,48000,0.87,None
+MC26_1262,Sophia Gruber,ITA,F,30,Short Track,3,23.5,13.0,13.2,68.8,,3,371.0,38000,0.82,None
+MC26_1263,Evan Bates,USA,M,37,Figure Skating,2,29.7,176.0,8.2,61.0,,2,,80000,0.82,Silver
+MC26_1264,Kyle Murray,GER,M,31,Cross-Country,3,33.6,1454.0,8.4,83.9,,0,1363.0,52000,0.88,None
+MC26_1265,Rasmus Brown,GBR,M,33,Speed Skating,4,28.9,319.0,13.2,75.5,190.0,0,243.0,50000,0.54,None
+MC26_1266,Maja Gruber,KOR,F,28,Ice Hockey,3,24.7,66.0,13.4,,196.0,6,,35000,0.71,None
+MC26_1267,Ava Andersen,BRA,F,32,Cross-Country,1,32.3,1994.0,9.0,82.0,,1,1026.0,11000,0.04,None
+MC26_1268,Marco Odermatt,SUI,M,29,Alpine Skiing,3,26.8,,13.3,68.3,193.0,2,687.0,93000,0.93,Silver
+MC26_1269,Mitch Anderson,NZL,M,28,Short Track,5,27.2,171.0,12.7,77.7,161.0,4,319.0,50000,0.32,None
+MC26_1270,Alyssa Murray,SWE,F,41,Ski Jumping,4,21.4,865.0,7.9,63.4,198.0,5,705.0,56000,0.91,None
+MC26_1271,Lauren Gruber,HUN,F,20,Cross-Country,5,34.4,1283.0,9.5,85.1,,2,,22000,0.26,None
+MC26_1272,Thomas Fischer,HUN,M,21,Biathlon,3,26.4,1495.0,8.3,81.0,170.0,2,534.0,22000,0.26,None
+MC26_1273,Elana Meyers Taylor,USA,F,42,Bobsleigh,3,25.2,622.0,12.2,73.3,,0,,80000,0.82,Gold
+MC26_1274,Carson Brown,KOR,M,43,Snowboard,3,23.3,1946.0,9.8,,224.0,5,634.0,35000,0.71,None
+MC26_1275,Brandon Bernard,CHN,M,42,Ice Hockey,2,22.5,155.0,12.0,61.9,165.0,1,,13000,0.62,None
+MC26_1276,Trevor Martin,FRA,M,37,Ice Hockey,1,23.2,,14.6,,219.0,5,,48000,0.87,None
+MC26_1277,Elena Clark,CAN,F,25,Snowboard,3,19.2,1751.0,12.4,57.2,245.0,2,281.0,55000,0.88,None
+MC26_1278,Mia Meier,CAN,F,36,Biathlon,3,28.2,1641.0,11.3,79.6,169.0,3,357.0,55000,0.88,None
+MC26_1279,Logan Hansen,CAN,M,29,Alpine Skiing,3,19.9,1909.0,12.9,66.6,223.0,5,847.0,55000,0.88,None
+MC26_1280,Derek MacDonald,CHN,M,21,Nordic Combined,3,20.9,2461.0,11.1,59.0,179.0,1,357.0,13000,0.62,None
+MC26_1281,Pierre Wilson,GBR,M,25,Biathlon,1,30.2,1808.0,12.2,84.5,165.0,1,906.0,50000,0.54,None
+MC26_1282,Isabella Harris,KOR,F,27,Cross-Country,0,30.1,1808.0,9.2,76.9,,1,1361.0,35000,0.71,None
+MC26_1283,Antoine Cyr,CAN,M,28,Cross-Country,1,35.8,1775.0,8.5,80.4,,2,968.0,55000,0.88,None
+MC26_1284,Mac Forehand,USA,M,26,Freestyle Skiing,4,21.5,1760.0,9.9,59.2,256.0,6,874.0,80000,0.82,Silver
+MC26_1285,Xandra Velzeboer,NED,F,24,Short Track,2,32.4,49.0,11.4,87.9,151.0,3,960.0,62000,0.85,Gold
+MC26_1286,Abigail Simon,AUT,F,43,Luge,2,19.7,620.0,15.5,53.7,155.0,2,623.0,56000,0.92,None
+MC26_1287,Nina MacDonald,USA,F,36,Ice Hockey,3,20.5,118.0,9.4,56.9,166.0,5,,80000,0.82,None
+MC26_1288,Charlotte Murray,SUI,F,29,Cross-Country,2,29.7,1492.0,9.0,83.2,,3,322.0,93000,0.93,None
+MC26_1289,Frida Karlsson,SWE,F,27,Cross-Country,5,37.7,1660.0,8.2,93.9,,3,1237.0,56000,0.91,Gold
+MC26_1290,Thomas Campbell,NOR,M,33,Alpine Skiing,4,18.6,1990.0,12.7,70.2,215.0,3,,95000,0.97,None
+MC26_1291,Hanna Jackson,GER,F,42,Snowboard,1,24.6,2374.0,10.2,55.8,213.0,5,548.0,52000,0.88,None
+MC26_1292,Ida Bauer,CAN,F,44,Alpine Skiing,0,18.5,1965.0,11.8,66.0,,4,1033.0,55000,0.88,None
+MC26_1293,Axel Keller,KOR,M,21,Alpine Skiing,3,21.8,1840.0,12.9,65.2,219.0,3,543.0,35000,0.71,None
+MC26_1294,Nicolas Jensen,ITA,M,28,Ice Hockey,0,21.2,38.0,11.1,54.3,185.0,7,,38000,0.82,None
+MC26_1295,Kayla Bauer,GBR,F,37,Luge,3,21.8,733.0,12.8,54.6,,0,,50000,0.54,None
+MC26_1296,Elizabeth Robinson,KOR,F,42,Alpine Skiing,1,20.2,2374.0,9.7,57.0,,3,398.0,35000,0.71,None
+MC26_1297,Sidney Crosby,CAN,M,39,Ice Hockey,3,27.6,110.0,9.3,72.7,200.0,7,,55000,0.88,Silver
+MC26_1298,Erik Davis,SUI,M,31,Alpine Skiing,1,25.7,2117.0,10.2,62.7,,1,594.0,93000,0.93,None
+MC26_1299,Pierre Jackson,FRA,M,43,Alpine Skiing,2,25.7,1831.0,12.2,65.9,,5,757.0,48000,0.87,None
+MC26_1300,Jessie Diggins,USA,F,35,Cross-Country,4,34.2,1708.0,8.8,94.5,,2,621.0,80000,0.82,Bronze
+MC26_1301,Alex Bilodeau,CAN,M,39,Freestyle Skiing,1,20.3,1629.0,13.6,56.1,236.0,4,424.0,55000,0.88,None
+MC26_1302,Rachel Murray,CAN,F,23,Speed Skating,1,27.3,109.0,15.7,67.7,199.0,3,867.0,55000,0.88,None
+MC26_1303,Mikael Kingsbury,CAN,M,34,Freestyle Skiing,4,23.4,1290.0,9.4,69.7,198.0,6,249.0,55000,0.88,Gold
+MC26_1304,Emma Schmidt,AUS,F,37,Biathlon,2,33.4,,11.1,85.7,185.0,2,673.0,65000,0.22,None
+MC26_1305,Silvana Tirinzoni,SUI,F,47,Curling,1,18.4,14.0,16.1,59.1,,1,,93000,0.93,Silver
+MC26_1306,Tyler Bernard,CZE,M,33,Ice Hockey,0,23.3,153.0,13.6,62.0,196.0,1,,28000,0.64,None
+MC26_1307,Erik Anderson,ITA,M,20,Freestyle Skiing,1,23.2,1457.0,12.1,58.6,245.0,2,657.0,38000,0.82,None
+MC26_1308,Pierre Moore,CAN,M,35,Biathlon,1,30.8,1820.0,9.4,84.6,,2,1078.0,55000,0.88,None
+MC26_1309,Charlotte Robinson,NED,F,31,Alpine Skiing,4,24.2,1914.0,13.2,67.7,184.0,1,730.0,62000,0.85,Silver
+MC26_1310,Frida MacDonald,NED,F,25,Cross-Country,3,29.4,1551.0,8.0,75.8,,2,321.0,62000,0.85,None
+MC26_1311,Hanna Thompson,NZL,F,42,Ice Hockey,3,20.8,1.0,9.4,,194.0,5,,50000,0.32,None
+MC26_1312,Lars Williams,CAN,M,29,Snowboard,2,21.7,1743.0,15.3,53.9,226.0,3,432.0,55000,0.88,None
+MC26_1313,Josh Brown,NOR,M,39,Freestyle Skiing,3,22.1,1385.0,14.1,63.4,239.0,6,834.0,95000,0.97,None
+MC26_1314,Emma Bauer,GER,F,42,Ice Hockey,3,24.5,,11.9,59.5,160.0,2,,52000,0.88,None
+MC26_1315,Trevor Harris,ITA,M,44,Snowboard,3,19.4,1948.0,10.1,68.0,256.0,5,232.0,38000,0.82,None
+MC26_1316,Frida Smith,USA,F,44,Cross-Country,0,,1217.0,9.9,82.0,,1,1053.0,80000,0.82,None
+MC26_1317,Pierre Andersen,NOR,M,37,Snowboard,4,22.7,1823.0,,63.7,212.0,5,641.0,95000,0.97,None
+MC26_1318,Therese Koch,AUT,F,28,Snowboard,3,22.8,1707.0,12.3,59.0,201.0,1,,56000,0.92,None
+MC26_1319,Rasmus Nilsson,CZE,M,28,Ice Hockey,3,24.5,136.0,9.0,61.5,164.0,5,,28000,0.64,Silver
+MC26_1320,Sofia White,CHN,F,43,Ski Jumping,4,26.4,634.0,7.0,57.8,220.0,1,317.0,13000,0.62,None
+MC26_1321,Amelia Campbell,USA,F,34,Ice Hockey,1,24.2,60.0,12.2,60.5,202.0,8,,80000,0.82,None
+MC26_1322,Erik Lewis,SWE,M,33,Biathlon,3,27.3,1412.0,11.9,81.6,209.0,1,845.0,56000,0.91,None
+MC26_1323,Jenning de Boo,NED,M,29,Speed Skating,1,32.5,375.0,9.1,83.9,156.0,0,949.0,62000,0.85,Silver
+MC26_1324,Kayla Williams,AUT,F,39,Short Track,5,29.6,84.0,11.8,72.7,156.0,2,324.0,56000,0.92,None
+MC26_1325,Erik Hansen,GER,M,25,Freestyle Skiing,3,19.3,1211.0,13.2,58.1,209.0,3,94.0,52000,0.88,None
+MC26_1326,Derek White,CAN,M,38,Snowboard,4,25.0,2396.0,15.6,64.3,259.0,1,181.0,55000,0.88,None
+MC26_1327,Anja Steiner,SLO,F,22,Curling,0,16.2,,19.7,51.2,,1,,32000,0.56,None
+MC26_1328,Kyle Thompson,SWE,M,30,Speed Skating,3,172.0,36.0,11.2,79.1,163.0,0,571.0,56000,0.91,None
+MC26_1329,Nathan Chen,USA,M,27,Figure Skating,1,32.0,76.0,8.3,59.3,,3,,80000,0.82,None
+MC26_1330,Mikaela Shiffrin,USA,F,31,Alpine Skiing,1,27.2,2272.0,8.2,81.2,180.0,2,823.0,80000,0.82,Gold
+MC26_1331,Jackie Wiles,USA,F,35,Alpine Skiing,1,24.5,2519.0,9.3,71.6,187.0,1,616.0,80000,0.82,Bronze
+MC26_1332,Tanguy Nef,SUI,M,30,Alpine Skiing,1,21.2,1867.0,10.6,,218.0,2,265.0,93000,0.93,Gold
+MC26_1333,Nina Morrison,KOR,F,22,Ski Jumping,2,24.1,799.0,9.1,,204.0,4,885.0,35000,0.71,None
+MC26_1334,Quentin Fillon Maillet,FRA,M,34,Biathlon,5,35.7,1729.0,10.9,89.3,169.0,1,1333.0,48000,0.87,Gold
+MC26_1335,Lisa Jackson,GER,F,26,Biathlon,5,28.2,1920.0,12.8,83.0,194.0,1,241.0,52000,0.88,None
+MC26_1336,Jens Luras Oftebro,NOR,M,27,Nordic Combined,3,21.3,2292.0,13.5,71.2,214.0,4,681.0,95000,0.97,Gold
+MC26_1337,Gus Schumacher,USA,M,24,Cross-Country,4,35.9,1841.0,11.3,94.1,,1,491.0,80000,0.82,Silver
+MC26_1338,Jake Schmidt,CHN,M,39,Speed Skating,1,26.5,333.0,10.1,68.2,196.0,0,180.0,13000,0.62,None
+MC26_1339,Logan Meier,CAN,M,40,Luge,3,18.2,908.0,11.1,54.7,146.0,1,607.0,55000,0.88,None
+MC26_1340,Jaelin Kauf,USA,F,28,Freestyle Skiing,3,21.1,1947.0,12.4,68.9,231.0,3,293.0,80000,0.82,Silver
+MC26_1341,Lars Bernard,FRA,M,40,Alpine Skiing,2,,2565.0,8.1,65.7,219.0,2,305.0,48000,0.87,None
+MC26_1342,Mathis Desloges,FRA,M,25,Cross-Country,5,36.2,1844.0,11.0,96.0,,0,605.0,48000,0.87,Silver
+MC26_1343,Mia Clark,NED,F,30,Ice Hockey,1,26.8,1.0,15.0,63.4,218.0,6,,62000,0.85,None
+MC26_1344,Henrik Anderson,HUN,M,35,Bobsleigh,2,26.4,561.0,15.4,69.0,187.0,2,204.0,22000,0.26,Bronze
+MC26_1345,Therese Davis,CHN,F,42,Short Track,4,,,12.1,69.0,178.0,4,604.0,13000,0.62,None
+MC26_1346,Jonas Keller,AUT,M,22,Speed Skating,1,26.9,24.0,9.6,,,2,153.0,56000,0.92,None
+MC26_1347,Brandon Thompson,CAN,M,19,Freestyle Skiing,1,,1911.0,13.1,66.0,199.0,1,771.0,55000,0.88,Bronze
+MC26_1348,Ida Martin,BRA,F,20,Freestyle Skiing,4,21.7,1377.0,14.5,57.1,203.0,2,,11000,0.04,None
+MC26_1349,Madison Meier,CZE,F,20,Speed Skating,3,25.6,306.0,15.4,66.7,163.0,3,513.0,28000,0.64,None
+MC26_1350,Amelia Simon,NED,F,31,Biathlon,3,28.1,1307.0,12.4,76.6,204.0,3,,62000,0.85,None
+MC26_1351,Sofia Andersen,HUN,F,27,Ice Hockey,1,,12.0,13.5,60.5,173.0,4,,22000,0.26,None
+MC26_1352,Lindsey Vonn,USA,F,42,Alpine Skiing,3,21.4,,12.9,61.5,219.0,2,212.0,80000,0.82,None
+MC26_1353,Madison Chock,USA,F,34,Figure Skating,4,26.5,194.0,14.0,60.5,,1,,80000,0.82,Silver
+MC26_1354,Kristin Steiner,CHN,F,31,Cross-Country,5,32.2,1898.0,7.4,85.6,,3,803.0,13000,0.62,None
+MC26_1355,Lukas Davis,POL,M,28,Speed Skating,2,,337.0,9.9,71.1,185.0,0,319.0,20000,0.42,None
+MC26_1356,Trevor Martin,FRA,M,37,Ice Hockey,1,23.2,,14.6,,219.0,5,,48000,0.87,None
+MC26_1357,Alyssa Clark,NED,F,43,Cross-Country,3,35.0,1436.0,8.0,77.2,,1,558.0,62000,0.85,None
+MC26_1358,Kyle Thomas,CHN,M,39,Biathlon,1,28.4,,13.8,70.9,206.0,0,100.0,13000,0.62,None
+MC26_1359,Eliot Grondin,CAN,M,25,Snowboard,1,,1785.0,13.6,,208.0,6,489.0,55000,0.88,Silver
+MC26_1360,Paula Moltzan,USA,F,32,Alpine Skiing,3,24.3,2266.0,8.9,70.7,181.0,3,607.0,80000,0.82,Bronze
+MC26_1361,Kayla Larsen,SWE,F,29,Bobsleigh,0,,820.0,14.2,61.3,187.0,0,424.0,56000,0.91,None
+MC26_1362,Ingrid Robinson,POL,F,37,Luge,2,21.1,719.0,14.4,49.0,143.0,1,620.0,20000,0.42,None
+MC26_1363,Anja Smith,CZE,F,42,Cross-Country,1,29.0,,10.7,76.0,,3,1034.0,28000,0.64,None
+MC26_1364,Brendan Mackay,CAN,M,28,Freestyle Skiing,1,22.6,1285.0,12.9,64.4,195.0,5,771.0,55000,0.88,Bronze
+MC26_1365,Kyle Wilson,KOR,M,26,Alpine Skiing,2,19.4,1813.0,12.0,62.5,,5,255.0,35000,0.71,None
+MC26_1366,Kyle Walker,FRA,M,25,Short Track,2,24.8,178.0,11.6,69.0,165.0,3,627.0,48000,0.87,None
+MC26_1367,Logan Jackson,ITA,M,34,Short Track,3,28.8,253.0,13.9,73.0,184.0,1,327.0,38000,0.82,None
+MC26_1368,Nina Schmidt,CZE,F,19,Speed Skating,4,22.3,210.0,14.5,70.4,,3,175.0,28000,0.64,None
+MC26_1369,Laura Thompson,AUT,F,23,Ice Hockey,0,24.0,2.0,14.5,59.7,190.0,8,,56000,0.92,None
+MC26_1370,Emily Walker,SUI,F,40,Freestyle Skiing,1,21.4,1964.0,13.3,61.4,193.0,4,401.0,93000,0.93,None
+MC26_1371,Marco Fischer,JPN,M,30,Cross-Country,2,,1336.0,8.9,82.2,,0,769.0,35000,0.74,None
+MC26_1372,Taylor Gruber,KOR,F,29,Ice Hockey,2,25.4,104.0,13.5,65.1,,7,,35000,0.71,None
+MC26_1373,Nicolas Thomas,AUS,M,19,Speed Skating,1,29.2,,12.6,76.8,173.0,1,725.0,65000,0.22,None
+MC26_1374,Pierre Bernard,SWE,M,33,Cross-Country,4,28.6,1501.0,11.0,77.5,,1,893.0,56000,0.91,None
+MC26_1375,Daniel White,CAN,M,20,Freestyle Skiing,1,20.4,1504.0,10.3,56.2,255.0,2,330.0,55000,0.88,None
+MC26_1376,Rasmus Larsen,NOR,M,40,Freestyle Skiing,4,21.3,1927.0,,62.9,201.0,4,,95000,0.97,Bronze
+MC26_1377,Cale Davis,BRA,M,34,Ice Hockey,1,23.2,33.0,8.6,54.5,212.0,4,,11000,0.04,None
+MC26_1378,Klara Harris,FRA,F,41,Ice Hockey,3,24.7,186.0,14.3,57.3,193.0,6,,48000,0.87,None
+MC26_1379,Lou Jeanmonnot,FRA,F,28,Biathlon,4,34.5,1517.0,12.3,91.6,,1,236.0,48000,0.87,Silver
+MC26_1380,Andrew Harris,NOR,M,19,Freestyle Skiing,0,19.8,2096.0,15.2,58.3,235.0,5,424.0,95000,0.97,None
+MC26_1381,Therese Martin,GER,F,31,Short Track,0,27.7,82.0,11.8,64.7,148.0,3,536.0,52000,0.88,None
+MC26_1382,Kristin Larsen,AUT,F,43,Bobsleigh,3,25.5,631.0,11.2,69.2,165.0,3,219.0,56000,0.92,Silver
+MC26_1383,Lisa Martin,JPN,F,24,Alpine Skiing,2,26.2,1835.0,9.2,63.8,177.0,3,745.0,35000,0.74,None
+MC26_1384,Laurent Dubreuil,CAN,M,34,Speed Skating,1,31.9,371.0,15.0,82.8,192.0,2,380.0,55000,0.88,Bronze
+MC26_1385,Emily Taylor,CZE,F,27,Alpine Skiing,2,24.3,2386.0,10.1,67.1,,5,704.0,28000,0.64,None
+MC26_1386,Patrick Roest,NED,M,30,Speed Skating,5,24.6,326.0,,,171.0,3,1033.0,62000,0.85,None
+MC26_1387,Abigail Muller,FIN,F,26,Cross-Country,5,35.0,1907.0,9.8,86.6,,1,943.0,53000,0.9,None
+MC26_1388,Elena Stewart,GER,F,22,Speed Skating,0,27.5,96.0,11.9,67.3,172.0,3,659.0,52000,0.88,None
+MC26_1389,Maria Murray,AUS,F,19,Alpine Skiing,1,20.5,1848.0,12.9,55.6,199.0,1,,65000,0.22,None
+MC26_1390,Rachel Thomas,CZE,F,36,Ice Hockey,3,23.3,155.0,9.6,62.4,208.0,4,,28000,0.64,None
