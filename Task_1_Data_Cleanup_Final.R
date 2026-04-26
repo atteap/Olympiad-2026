@@ -180,7 +180,7 @@ clean_data <- clean_data %>%
   )
 
 # Export cleaned dataset
-write_csv(clean_data, "milan_cortina_2026_cleaned.csv")
+write_csv(clean_data, "milan_cortina_2026_cleaned_Final.csv")
 
 cat("\n=== TASK 1 COMPLETE ===\n")
 print(data.frame(
@@ -189,4 +189,8 @@ print(data.frame(
   Columns = c(ncol(raw_data), ncol(clean_data))
 ))
 
-cat("Cleaned file saved as milan_cortina_2026_cleaned.csv\n")
+cat("Cleaned file saved as milan_cortina_2026_cleaned_Final.csv\n")
+
+
+
+
